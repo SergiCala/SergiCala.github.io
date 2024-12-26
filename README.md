@@ -11,10 +11,10 @@
 
  - IE University | Madrid, Remote  /Boot Camp | In Data Science:
    Analysis, sql, Math & Stats, Supervised and Unsupervised
-   Model. (Now)
+   Model. (2024)
 
  - Basware AP Solutions: Work with them and the IE University to
    create a model using Machine Learning, with the finality to
-   improve the sales department. (Now)
+   improve the sales department. (2024)
 
    
